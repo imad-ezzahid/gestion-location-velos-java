@@ -88,4 +88,4 @@ Crédit insuffisant : false
 ---
 
 ## 👤 Auteur
-**Imad Ezzahid** — Étudiant en Licence Sciences et Techniques (Informatique)
+**Imad Ezzahid** ([@imad27-maker](https://github.com/imad27-maker)) — Étudiant en Licence Sciences et Techniques (Informatique)
